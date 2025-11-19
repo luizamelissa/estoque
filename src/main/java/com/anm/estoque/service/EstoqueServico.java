@@ -16,5 +16,9 @@ public class EstoqueServico {
         return pr.findAll();
     }
 
+    public ProdutoModelo buscarPorId(Long id) {
+        return pr.findById(id).get();
+    }
+
 }
 
