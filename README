@@ -1,1 +1,29 @@
+📦 Sistema de Estoque
 
+Sistema simples de controle de estoque desenvolvido em Java com Spring Boot, permitindo o gerenciamento de produtos através de uma API REST (CRUD completo).
+
+🔧 Tecnologias Utilizadas
+
+Java 21
+
+Spring Boot
+
+Spring Web
+
+Spring Data JPA / Hibernate
+
+MySQL
+
+Lombok
+
+Maven
+
+📌 Funcionalidades
+
+Cadastrar produto
+
+Listar produtos
+
+Atualizar produto
+
+Remover produto
